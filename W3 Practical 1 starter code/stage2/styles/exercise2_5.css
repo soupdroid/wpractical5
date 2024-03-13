@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    height: 200px;
+}
+
+#sq1, #sq4, #sq7 {
+   align-self: flex-start;
+   
+}
+
+#sq2, #sq5, #sq8 {
+    align-self: center;
+}
